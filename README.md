@@ -3,6 +3,9 @@ By Irvin Cardoza
 
 This project implements a basic blockchain structure in C language, using linked lists to store blocks and the SHA-256 hashing algorithm from CommonCrypto for hashing. We use CommonCrypto as it is convinient for Macos users.
 
+### Why use this project?
+- Unlike other projects, this has all the code in one single file and no external pip/bash installs needed. It can be copy pasted and run easily. This projects is mainly to give an understanding as to how the blockchain works and teaches us to use the hash algorithm.
+
 ## Features
 
 - **Blockchain Structure**: Implemented using a linked list of blocks.
